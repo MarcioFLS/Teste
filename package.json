@@ -1,0 +1,22 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioFLS/Teste.git"
+  },
+  "author": "Márcio Fernando Lopes da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioFLS/Teste/issues"
+  },
+  "homepage": "https://github.com/MarcioFLS/Teste#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
